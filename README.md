@@ -7,8 +7,9 @@
 ![feature-image](https://user-images.githubusercontent.com/29705703/56046670-66d5a880-5d61-11e9-8334-e9cac23811ee.png)
 
 
-![appstore](https://user-images.githubusercontent.com/29705703/56046668-66d5a880-5d61-11e9-8297-8dec7b238c11.png)
-![download-google-play](https://user-images.githubusercontent.com/29705703/56046669-66d5a880-5d61-11e9-82c3-3cde6c0e456b.png)
+![app-store](https://user-images.githubusercontent.com/29705703/56047392-efa11400-5d62-11e9-820d-037287058e84.png)
+![google-play](https://user-images.githubusercontent.com/29705703/56047393-f039aa80-5d62-11e9-9ec4-11e111700eb2.png)
+
 
 # Screen Shots
 
