@@ -11,6 +11,13 @@
 ![google-play](https://user-images.githubusercontent.com/29705703/56047393-f039aa80-5d62-11e9-9ec4-11e111700eb2.png)
 
 
+# Demonstrations
+
+![card-refresh](https://user-images.githubusercontent.com/29705703/56052466-1b29fb80-5d6f-11e9-88d4-011510760ce1.gif)
+![share-card](https://user-images.githubusercontent.com/29705703/56052297-a9ea4880-5d6e-11e9-8538-9776b11d5a85.gif)
+![auto-detect](https://user-images.githubusercontent.com/29705703/56047866-ff6d2800-5d63-11e9-9808-9755b66f39d4.gif)
+
+
 # Screen Shots
 
 ![ss-1](https://user-images.githubusercontent.com/29705703/56045676-4d336180-5d5f-11e9-90a6-96ceb68ebbb4.png)
