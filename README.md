@@ -5,15 +5,11 @@ this will be public soon
 
 # Screen Shots:
 
-![ss-1](https://user-images.githubusercontent.com/29705703/56045210-77385400-5d5e-11e9-9bb9-7bfe42bdaf78.png)
-![ss-2](https://user-images.githubusercontent.com/29705703/56045211-77385400-5d5e-11e9-9150-bd371c47afb1.png)
-![ss-3](https://user-images.githubusercontent.com/29705703/56045214-77385400-5d5e-11e9-9aa7-0e1a3dc0f827.png)
-![ss-5](https://user-images.githubusercontent.com/29705703/56045217-77d0ea80-5d5e-11e9-81ce-1a1117aa04e4.png)
-![ss-6](https://user-images.githubusercontent.com/29705703/56045219-77d0ea80-5d5e-11e9-8526-b40868d60412.png)
-![ss-7](https://user-images.githubusercontent.com/29705703/56045220-78698100-5d5e-11e9-8fa0-7e8fcbaa0f5b.png)
-![ss-8](https://user-images.githubusercontent.com/29705703/56045221-78698100-5d5e-11e9-9bcd-ce017cbb6d69.png)
-
-
-
-
-![ss-4](https://user-images.githubusercontent.com/29705703/56045216-77d0ea80-5d5e-11e9-9234-3d103ef0c69b.png)
+![ss-1](https://user-images.githubusercontent.com/29705703/56045373-c41c2a80-5d5e-11e9-99c3-120d8952f334.png)
+![ss-2](https://user-images.githubusercontent.com/29705703/56045374-c4b4c100-5d5e-11e9-9dab-8e5806fc638f.png)
+![ss-3](https://user-images.githubusercontent.com/29705703/56045375-c4b4c100-5d5e-11e9-9807-f319ec73c8b4.png)
+![ss-4](https://user-images.githubusercontent.com/29705703/56045378-c4b4c100-5d5e-11e9-8960-516121aaf97f.png)
+![ss-5](https://user-images.githubusercontent.com/29705703/56045379-c54d5780-5d5e-11e9-9a56-444705310dd7.png)
+![ss-6](https://user-images.githubusercontent.com/29705703/56045380-c54d5780-5d5e-11e9-8ae8-2feb8af320d5.png)
+![ss-7](https://user-images.githubusercontent.com/29705703/56045383-c54d5780-5d5e-11e9-870a-af7c94e14cae.png)
+![ss-8](https://user-images.githubusercontent.com/29705703/56045384-c54d5780-5d5e-11e9-8ff0-dd072ac7f613.png)
