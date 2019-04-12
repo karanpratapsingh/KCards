@@ -3,13 +3,14 @@ this will be public soon
 
 ### Website: https://kcards-server.herokuapp.com
 
-# Screen Shots:
+# Screen Shots
 
-![ss-1](https://user-images.githubusercontent.com/29705703/56045373-c41c2a80-5d5e-11e9-99c3-120d8952f334.png)
-![ss-2](https://user-images.githubusercontent.com/29705703/56045374-c4b4c100-5d5e-11e9-9dab-8e5806fc638f.png)
-![ss-3](https://user-images.githubusercontent.com/29705703/56045375-c4b4c100-5d5e-11e9-9807-f319ec73c8b4.png)
-![ss-4](https://user-images.githubusercontent.com/29705703/56045378-c4b4c100-5d5e-11e9-8960-516121aaf97f.png)
-![ss-5](https://user-images.githubusercontent.com/29705703/56045379-c54d5780-5d5e-11e9-9a56-444705310dd7.png)
-![ss-6](https://user-images.githubusercontent.com/29705703/56045380-c54d5780-5d5e-11e9-8ae8-2feb8af320d5.png)
-![ss-7](https://user-images.githubusercontent.com/29705703/56045383-c54d5780-5d5e-11e9-870a-af7c94e14cae.png)
-![ss-8](https://user-images.githubusercontent.com/29705703/56045384-c54d5780-5d5e-11e9-8ff0-dd072ac7f613.png)
+![ss-1](https://user-images.githubusercontent.com/29705703/56045676-4d336180-5d5f-11e9-90a6-96ceb68ebbb4.png)
+![ss-2](https://user-images.githubusercontent.com/29705703/56045677-4d336180-5d5f-11e9-97d1-4e079aed4e11.png)
+![ss-3](https://user-images.githubusercontent.com/29705703/56045679-4d336180-5d5f-11e9-81ce-e16bed0fd651.png)
+![ss-4](https://user-images.githubusercontent.com/29705703/56045680-4dcbf800-5d5f-11e9-9425-26d7d596a6b6.png)
+![ss-5](https://user-images.githubusercontent.com/29705703/56045682-4dcbf800-5d5f-11e9-8d35-75c0f43ded6c.png)
+![ss-6](https://user-images.githubusercontent.com/29705703/56045683-4dcbf800-5d5f-11e9-9374-207486646c95.png)
+![ss-7](https://user-images.githubusercontent.com/29705703/56045684-4e648e80-5d5f-11e9-8c91-174c0d4bd7aa.png)
+![ss-8](https://user-images.githubusercontent.com/29705703/56045686-4e648e80-5d5f-11e9-8990-2b02283111f0.png)
+
