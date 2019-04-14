@@ -12,17 +12,19 @@
 
 * Create Multiple Cards
 * Personalize your Cards
-* Use Auto Fill to quickly create card
+* Use AutoFill to quickly create a card
 * Share on your desired platform
-* Get real time analytics
+* Generates a timeline as you share
+* Offline Sharing Mode available
+* Get real-time analytics
 * QR Code based sharing is available
 
 # Technologies used:
 
 * JavaScript (ES8+)
-* React Native (0.59.x) [Frontend]
+* React Native (0.59.x)
 * Redux + Redux Persist
-* Node JS + Express [Backend]
+* Node JS + Express
 * MongoDB
 
 # Demonstrations and Screen Shots
