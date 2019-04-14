@@ -2,7 +2,7 @@
 ### kcards is a one stop replacement for paper cards. kcards helps you to easily share your cards with other users and get real time analytics on the shared cards
 
 - Website: https://kcards-server.herokuapp.com
-- Play Store: 
+- Play Store: https://play.google.com/store/apps/details?id=com.kcards
 - App Store: [Not yet deployed]
 
 ---
