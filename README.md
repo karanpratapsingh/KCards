@@ -1,21 +1,22 @@
 # KCards: A Seamless way to increase your network
 ### kcards is a one stop replacement for paper cards. kcards helps you to easily share your cards with other users and get real time analytics on the shared cards
 
-### Website: https://kcards-server.herokuapp.com
+- Website: https://kcards-server.herokuapp.com
+- Play Store: 
+- App Store: [Not yet deployed]
+
 
 ![Github](https://user-images.githubusercontent.com/29705703/56090531-e037dd00-5ec0-11e9-888e-2383f890c369.png)
 
 
 # Features:
 
-### Feature 1
-### Feature 2
-### Feature 3
-### Feature 4
-### Feature 5
-### Feature 6
-### Feature 7
-### Feature 8
+* Create Multiple Cards
+* Personalize your Cards
+* Use Auto Fill to quickly create card
+* Share on your desired platform
+* Get real time analytics
+* QR Code based sharing is available
 
 # Technologies used:
 
