@@ -10,14 +10,11 @@
 
 
 <img src="./assets/playstore/ScreenShots/ScreenShot1.png" alt="drawing" height="500" />
-
-
-<img src="./assets/playstore/ScreenShots/ScreenShot1.png" alt="drawing" style="height: 500px;"/>
-<img src="./assets/playstore/ScreenShots/ScreenShot2.png" alt="drawing" style="height: 500px;"/>
-<img src="./assets/playstore/ScreenShots/ScreenShot3.png" alt="drawing" style="height: 500px;"/>
-<img src="./assets/playstore/ScreenShots/ScreenShot4.png" alt="drawing" style="height: 500px;"/>
-<img src="./assets/playstore/ScreenShots/ScreenShot5.png" alt="drawing" style="height: 500px;"/>
-<img src="./assets/playstore/ScreenShots/ScreenShot6.png" alt="drawing" style="height: 500px;"/>
+<img src="./assets/playstore/ScreenShots/ScreenShot2.png" alt="drawing" height="500" />
+<img src="./assets/playstore/ScreenShots/ScreenShot3.png" alt="drawing" height="500" />
+<img src="./assets/playstore/ScreenShots/ScreenShot4.png" alt="drawing" height="500" />
+<img src="./assets/playstore/ScreenShots/ScreenShot5.png" alt="drawing" height="500" />
+<img src="./assets/playstore/ScreenShots/ScreenShot6.png" alt="drawing" height="500" />
 
 # Features:
 
