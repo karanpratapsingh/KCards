@@ -9,8 +9,7 @@
 ![Github](https://user-images.githubusercontent.com/29705703/56090531-e037dd00-5ec0-11e9-888e-2383f890c369.png)
 
 
-<img src="./assets/playstore/ScreenShots/ScreenShot1.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot2.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot3.png" alt="drawing" height="480" />
-<img src="./assets/playstore/ScreenShots/ScreenShot4.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot5.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot6.png" alt="drawing" height="480" />
+<img src="./assets/playstore/ScreenShots/ScreenShot1.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot2.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot3.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot4.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot5.png" alt="drawing" height="480" /><img src="./assets/playstore/ScreenShots/ScreenShot6.png" alt="drawing" height="480" />
 
 # Features:
 
