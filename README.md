@@ -3,12 +3,8 @@
 
 ### Website: https://kcards-server.herokuapp.com
 
-![header-mobile](https://user-images.githubusercontent.com/29705703/56046672-676e3f00-5d61-11e9-9738-e63b480fe810.png)
-![feature-image](https://user-images.githubusercontent.com/29705703/56046670-66d5a880-5d61-11e9-8334-e9cac23811ee.png)
+![Github](https://user-images.githubusercontent.com/29705703/56090531-e037dd00-5ec0-11e9-888e-2383f890c369.png)
 
-
-![app-store](https://user-images.githubusercontent.com/29705703/56047392-efa11400-5d62-11e9-820d-037287058e84.png)
-![google-play](https://user-images.githubusercontent.com/29705703/56047393-f039aa80-5d62-11e9-9ec4-11e111700eb2.png)
 
 # Features:
 
