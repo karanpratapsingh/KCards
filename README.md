@@ -5,9 +5,9 @@
 - Play Store: 
 - App Store: [Not yet deployed]
 
-
+---
 ![Github](https://user-images.githubusercontent.com/29705703/56090531-e037dd00-5ec0-11e9-888e-2383f890c369.png)
-
+---
 
 # Features:
 
@@ -20,11 +20,11 @@
 
 # Technologies used:
 
-### JavaScript (ES8+)
-### React Native (0.59.x) [Frontend]
-### Redux + Redux Persist
-### Node JS + Express [Backend]
-### MongoDB
+* JavaScript (ES8+)
+* React Native (0.59.x) [Frontend]
+* Redux + Redux Persist
+* Node JS + Express [Backend]
+* MongoDB
 
 # Demonstrations and Screen Shots
 
