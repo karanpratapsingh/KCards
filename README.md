@@ -1,9 +1,9 @@
 # KCards: A Seamless way to increase your network
 ### kcards is a one stop replacement for paper cards. kcards helps you to easily share your cards with other users and get real time analytics on the shared cards
 
-- Website: http://kcards.in
+- Website: http://www.kcards.in
 - Play Store: https://play.google.com/store/apps/details?id=com.kcards
-- App Store: [Not yet deployed]
+- App Store: [Awaiting apple review ⏰]
 
 ---
 ![Github](https://user-images.githubusercontent.com/29705703/56090531-e037dd00-5ec0-11e9-888e-2383f890c369.png)
